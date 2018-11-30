@@ -1,6 +1,5 @@
 
-### Getting started
--------------------
+## Getting started
 Install dependencies:
 ``` bash
 $ git clone https://github.com/jathefo/ok-hexo.git
